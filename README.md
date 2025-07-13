@@ -6,7 +6,7 @@ This project uses **Support Vector Machine (SVM)** to predict whether a loan app
 
 ## 📄 Dataset
 
-- **Source:** [Loan Prediction Dataset](https://www.kaggle.com/datasets/ninzaami/loan-predication) *(or your source link)*
+- **Source:** [Loan Prediction Dataset](https://www.kaggle.com/datasets/ninzaami/loan-predication)
 - **Description:** Contains applicant details with the following columns:
   - `Loan_ID`: Unique loan identifier
   - `Gender`: Applicant gender
